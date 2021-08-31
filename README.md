@@ -1,2 +1,2 @@
-# Tran_Minh_Khoa-Machine_Learning
+# Tran_Minh_Khoa-MachineLearning
  DSEB 61 NEU
